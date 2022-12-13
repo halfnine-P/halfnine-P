@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @halfnine-P
+- 👋🏿 Hi, I’m @halfnine-P
 - 👀 I’m interested in ios dev, arkit etc 🍎
 - 🌱 I’m currently learning ios developement...
-- 💞️ I’m looking to collaborate on not sure yet!
-- 📫 How to reach me ... dont pls lol
+- 💻 I’m looking to collaborate on not sure yet!
 
 <!---
 halfnine-P/halfnine-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
